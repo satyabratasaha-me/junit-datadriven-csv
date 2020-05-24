@@ -1,0 +1,2 @@
+artifact,query1,query2
+x,SELECT * FROM TABLEA,SELECT * FROM TABLEB
